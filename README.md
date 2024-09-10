@@ -31,6 +31,8 @@
 
 <h3 align="center">README-Template</h3>
   <p align="center">
+    (Simple overview of use/purpose)
+    <br/>
     Readme Temple for every projects!
     <br />
     <a href="https://github.com/aysedemirel/README-Template"><strong>Explore the docs »</strong></a>
@@ -78,6 +80,8 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
 
+(An in-depth paragraph about your project and overview of use)
+
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one.
 
 Here's why:
@@ -111,6 +115,11 @@ You may suggest changes by forking this repo and creating a pull request or open
 
 ## Getting Started
 
+Executing program
+How to run the program
+Step-by-step bullets
+code blocks for commands
+
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
@@ -118,7 +127,17 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- npm
+#### Dependencies
+
+- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- ex. Windows 10
+
+#### Installing
+
+- How/where to download your program
+- Any modifications needed to be made to files/folders
+
+- ex. npm
   ```sh
   npm install npm@latest -g
   ```
