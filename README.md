@@ -115,11 +115,6 @@ You may suggest changes by forking this repo and creating a pull request or open
 
 ## Getting Started
 
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
@@ -127,16 +122,10 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-#### Dependencies
-
 - Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-- ex. Windows 10
-
-#### Installing
-
+- ex. Windows 10, Eclipse, Java19,...
 - How/where to download your program
 - Any modifications needed to be made to files/folders
-
 - ex. npm
   ```sh
   npm install npm@latest -g
@@ -164,6 +153,12 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
+
+### Executing Program
+
+- How to run the program
+- Step-by-step bullets
+- code blocks for commands
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,6 +232,7 @@ Your Name - [Linkedln - aysedemirel](https://www.linkedin.com/in/ayse-demirel/) 
 I used the resources when I create this repo:
 
 - [Best Readme Template](https://github.com/othneildrew/Best-README-Template)
+- [Readme Template Gist](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 - [Img Shields](https://shields.io)
 - [List of Badges, in Markdown](https://github.com/Naereen/badges?tab=readme-ov-file#list-of-badges-in-markdown)
 
