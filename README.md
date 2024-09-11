@@ -209,19 +209,11 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## License
-
-See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [Linkedln - aysedemirel](https://www.linkedin.com/in/ayse-demirel/) - aysedemireldeniz@gmail.com
+Ayşe Demirel Deniz - [Linkedln - aysedemirel](https://www.linkedin.com/in/ayse-demirel/) - aysedemireldeniz@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
